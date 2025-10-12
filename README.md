@@ -5,3 +5,14 @@ The final version of the project, including the complete methodology and results
 
 ## Contact
 If you have any questions, please contact [ioppjj0809@naver.com](mailto:ioppjj0809@naver.com).
+
+<br>
+<br>
+
+<div align="center">
+
+| <img src="img/banner.png" alt="2025 Daegu Big Data Competition Banner" width="750"> |
+|:--:| 
+| *2025 Daegu Big Data Competition Banner* |
+
+</div>
