@@ -13,6 +13,6 @@ If you have any questions, please contact [ioppjj0809@naver.com](mailto:ioppjj08
 
 | <img src="img/banner.png" alt="2025 Daegu Big Data Competition Banner" width="750"> |
 |:--:| 
-| *2025 Daegu Big Data Competition Banner* |
+| *2025 Daegu Big Data Analysis Competition Banner* |
 
 </div>
