@@ -133,8 +133,6 @@
 - 책임자: 박정준 ([LinkedIn](https://www.linkedin.com/in/jeong-jun-park/))
 - 이메일: [ioppjj0809@naver.com](mailto:ioppjj0809@naver.com)  
 
----
-
 <br>
 
 <div align="center">
