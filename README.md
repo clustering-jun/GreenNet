@@ -1,7 +1,7 @@
 <div align="center">
 <h6>제7회 대구 빅데이터 분석 경진대회</h6>
 
-<h1>대구광역시 녹지 네트워크 우선 입지 선정 모델 제안</h1>
+<h1>대구광역시 녹지 네트워크 우선 입지 선정</h1>
 
 <div>    
     <a href='https://www.linkedin.com/in/jeong-jun-park/' target='_blank'>박정준</a><sup>1</sup>&nbsp&nbsp&nbsp&nbsp;
