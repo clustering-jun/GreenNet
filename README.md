@@ -36,12 +36,12 @@
 </p>
 
 <p align="center">
-  <img src="img/overall_concept.png" width="800">
+  <img src="img/overall_concept.png" width="650">
 </p>
 
 ## Network Architecture
 <p align="center">
-  <img src="img/framework.png" width="1000">
+  <img src="img/framework.png" width="800">
 </p>
 
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-| <img src="img/banner.png" alt="2025 Daegu Big Data Competition Banner" width="850"> |
+| <img src="img/banner.png" alt="2025 Daegu Big Data Competition Banner" width="750"> |
 |:--:| 
 | 제7회 대구 빅데이터 분석 경진대회 배너 |
 
