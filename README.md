@@ -1,5 +1,5 @@
 <div align="center">
-<h6>제7회 대구 빅데이터 분석 경진대회</h6>
+<h6>7th Daegu Big Data Analysis Competition, Team Green Daegu</h6>
 
 <h1>대구광역시 녹지 네트워크 우선 입지 선정</h1>
 
@@ -83,12 +83,9 @@
 
 | <img src="img/greennet.png" alt="greennet" width="700"> |
 |:--:| 
-| **녹지 네트워크 시각화** |
+| **대구광역시 일대 녹지 네트워크 시각화** |
 
 </div>
-
-
----
 
 ## 정책제안
 
@@ -123,14 +120,25 @@
 
 </div>
 
-<br>
+---
+
+## 감사의 글
+먼저 함께 노력하고 고생해준 팀원 김혜원에게 고마움을 전합니다. 또한 소중한 시간을 내어 설문 조사와 예선 투표에 참여해 주신 모든 분들, 그리고 늘 응원해 주신 부모님께도 감사드립니다.
+
+본 분석 과제는 『제7회 대구 빅데이터 분석 경진대회』의 일환으로 수행된 결과물입니다.
+
+## 연락처
+관련하여 궁금한 사항이 있으신 경우 아래로 연락해 주시기 바랍니다.
+    
+- 책임자: 박정준 ([LinkedIn](https://www.linkedin.com/in/jeong-jun-park/))
+- 이메일: [ioppjj0809@naver.com](mailto:ioppjj0809@naver.com)  
 
 ---
 
+<br>
+
 <div align="center">
 
-| <img src="img/banner.png" alt="2025 Daegu Big Data Competition Banner" width="700"> |
-|:--:| 
-| **제7회 대구 빅데이터 분석 경진대회 배너** |
+<img src="img/banner.png" alt="2025 Daegu Big Data Competition Banner" width="700">
 
 </div>
