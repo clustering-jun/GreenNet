@@ -37,7 +37,7 @@
 
 <div align="center">
 
-| <img src="img/overall_concept.png" alt="overall_concept" width="750"> |
+| <img src="img/overall_concept.png" alt="overall_concept" width="700"> |
 |:--:| 
 | **전체 구상도** |
 
