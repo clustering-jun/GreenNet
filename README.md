@@ -47,7 +47,7 @@
 ## 분석방법
 <div align="center">
 
-| <img src="img/framework.png" alt="framework" width="800"> |
+| <img src="img/framework.png" alt="framework" width="700"> |
 |:--:| 
 | **전체 분석 흐름도** |
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-| <img src="img/banner.png" alt="2025 Daegu Big Data Competition Banner" width="750"> |
+| <img src="img/banner.png" alt="2025 Daegu Big Data Competition Banner" width="700"> |
 |:--:| 
 | **제7회 대구 빅데이터 분석 경진대회 배너** |
 
