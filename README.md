@@ -39,17 +39,17 @@
 
 | <img src="img/overall_concept.png" alt="overall_concept" width="700"> |
 |:--:| 
-| **전체 구상도** |
+| **대구광역시 녹지 네트워크 종합 구상도** |
 
 </div>
 
 
-## 분석 방법
+## 분석방법
 <div align="center">
 
 | <img src="img/framework.png" alt="framework" width="800"> |
 |:--:| 
-| **분석 과정** |
+| **전체 분석 흐름도** |
 
 </div>
 
@@ -61,6 +61,6 @@
 
 | <img src="img/banner.png" alt="2025 Daegu Big Data Competition Banner" width="750"> |
 |:--:| 
-| 제7회 대구 빅데이터 분석 경진대회 배너 |
+| **제7회 대구 빅데이터 분석 경진대회 배너** |
 
 </div>
