@@ -4,7 +4,7 @@
 <h1>대구광역시 녹지 네트워크 우선 입지 선정 모델 제안</h1>
 
 <div>    
-    <a href='https://github.com/clustering-jun' target='_blank'>박정준</a><sup>1</sup>&nbsp&nbsp&nbsp&nbsp;
+    <a href='https://www.linkedin.com/in/jeong-jun-park/' target='_blank'>박정준</a><sup>1</sup>&nbsp&nbsp&nbsp&nbsp;
     <a href='https://www.instagram.com/wonehyy/' target='_blank'>김혜원</a><sup>2</sup>&nbsp&nbsp&nbsp&nbsp;
 </div>
 <br>
