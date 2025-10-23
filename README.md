@@ -131,7 +131,7 @@
 관련하여 궁금한 사항이 있으신 경우 아래로 연락해 주시기 바랍니다.
     
 - 책임자: 박정준 ([LinkedIn](https://www.linkedin.com/in/jeong-jun-park/))
-- 이메일: [ioppjj0809@naver.com](mailto:ioppjj0809@naver.com)  
+- 전자우편: [ioppjj0809@naver.com](mailto:ioppjj0809@naver.com)  
 
 <br>
 
