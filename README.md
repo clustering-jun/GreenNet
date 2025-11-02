@@ -1,7 +1,7 @@
 <div align="center">
 <h6>7th Daegu Big Data Analysis Competition, Team Green Daegu</h6>
 
-<h1>대구광역시 녹지 네트워크 우선 입지 선정</h1>
+<h1>녹지 네트워크 구축을 위한 최적 입지 선정</h1>
 
 <div>    
     <a>박정준</a><sup>1</sup>&nbsp&nbsp&nbsp&nbsp;
