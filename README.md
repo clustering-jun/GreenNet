@@ -21,8 +21,11 @@
         <a href="GreenNet_FinalReport.pdf" target='_blank'>
         <img src="https://img.shields.io/badge/%EC%B4%88%EB%A1%9D%EB%8C%80%EA%B5%AC-%EC%B5%9C%EC%A2%85%20%EB%B6%84%EC%84%9D%20%EB%B3%B4%EA%B3%A0%EC%84%9C-brightgreen">
         </a>
-        <a href="test_youtube_link" target='_blank'>
+        <a href="https://www.youtube.com/watch?v=F145JY0SjpY" target='_blank'>
         <img src="https://img.shields.io/badge/Presentation-%23FF0000.svg?logo=YouTube&logoColor=white">
+        </a>
+        <a href="test" target='_blank'>
+        <img src="https://img.shields.io/badge/Interview-%23FF0000.svg?logo=YouTube&logoColor=white">
         </a>
         <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/clustering-jun/GreenNet">
     </h4>
