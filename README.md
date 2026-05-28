@@ -23,8 +23,6 @@
         </a>
         <a href="https://www.youtube.com/watch?v=S67yPm4CZpw" target='_blank'>
         <img src="https://img.shields.io/badge/Interview-%23FF0000.svg?logo=YouTube&logoColor=white">
-        </a>
-        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/clustering-jun/GreenNet">
     </h4>
 </div>
 </div>
